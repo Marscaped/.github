@@ -1,5 +1,5 @@
 ## Wilkommen...
-###... auf unserer Github-Seite
+### ... auf unserer Github-Seite
 
 ### Wer sind wir? 👥
 Wir sind eine Gruppe von Schülern der Fachoberschule Kl. 12 - Fachrichtung Informatik, der Heinrich-Büssing-Schule (https://buessing.schule/) in Braunschweig.
